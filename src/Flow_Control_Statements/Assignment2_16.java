@@ -1,20 +1,14 @@
 package Flow_Control_Statements;
 /*
-Write a program to print * in Floyds format (using for and while loop)
-*
-*  *
-*  *   *
+Write a program to reverse a given number and print
 
 Example1)
-C:\>java Sample
-O/P: Please enter an integer number
+I/P: 1234
+O/P:4321
 
 Example2)
-C:\>java Sample 3
-O/P :
-*
-*  *
-*  *  *
+I/P:1004
+O/P:4001
  */
 import java.util.Scanner;
 

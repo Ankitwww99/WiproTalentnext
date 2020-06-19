@@ -1,5 +1,21 @@
 package Flow_Control_Statements;
+/*
+Write a program to print * in Floyds format (using for and while loop)
+*
+*  *
+*  *   *
 
+Example1)
+C:\>java Sample
+O/P: Please enter an integer number
+
+Example2)
+C:\>java Sample 3
+O/P :
+*
+*  *
+*  *  *
+ */
 public class Assignment2_15 {
     public static void main(String[] args) {
         if(args.length==0)
