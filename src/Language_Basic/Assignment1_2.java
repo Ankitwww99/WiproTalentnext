@@ -6,7 +6,7 @@ Example1)
 C:\> java Sample John
 O/P Expected : Welcome John
  */
-public class Assignment2 {
+public class Assignment1_2 {
     public static void main(String[] args) {
         System.out.println("Welcome "+args[0]);
     }
