@@ -1,4 +1,3 @@
-package Language_Basic;
 //Write a Program to accept two integers as command line arguments and print the sum of the two numbers
 
 public class Assignment1_3 {

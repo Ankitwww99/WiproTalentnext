@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2935b6bc-7c88-408e-83bd-5e12861a8b92" name="Default Changelist" comment="assignment3_4 complete">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Assignment3_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Assignment3_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Assignment3_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Assignment3_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Assignment3_14.java" afterDir="false" />
+    <list default="true" id="2935b6bc-7c88-408e-83bd-5e12861a8b92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Abstract/TestCompartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Assignment4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Assignment4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation_Abstraction/Assignment5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1AB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Assignment6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/TestEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/AssignmentList7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/AssignmentMap6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiniProject/Project1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiniProject/VideoLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overriding_Polymorphism/Assignment7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overriding_Polymorphism/Assignment7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/AssignmentSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/AssignmentSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/AssignmentSet4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/AssignmetSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Buffer/Assignment9_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_Creation/AssignmentTC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_Creation/AssignmentTC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language_Basic/Assignment1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language_Basic/Assignment1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language_Basic/Assignment1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language_Basic/Assignment1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Language_Basic/Assignment1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Language_Basic/Assignment1_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,21 +64,48 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_10.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Tortoise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="2" selection-start-column="7" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_11.java">
+        <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Hare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="16" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="2" selection-start-column="8" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/service/RaceMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="32" column="13" selection-start-line="5" selection-start-column="21" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hare_and_Tortoise/Race1AB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hare_and_Tortoise/Race1ABC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -54,53 +126,70 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Language_Basic/Assignment3.java" />
-        <option value="$PROJECT_DIR$/src/Language_Basic/Assignment1.java" />
-        <option value="$PROJECT_DIR$/src/Language_Basic/Assignment2.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment1A.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment1B.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment3.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_3.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assidnment2_6.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_4.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_5.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_6.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_7.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_8.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_9.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_10.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_11.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_12.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_13.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_14.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_16.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_15.java" />
-        <option value="$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_17.java" />
-        <option value="$PROJECT_DIR$/src/Language_Basic/Assignment2_2.java" />
-        <option value="$PROJECT_DIR$/src/Language_Basic/Assignment1_3.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_1.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_2.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_14.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_13.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_12.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignnment3_11.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment2_10.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_10.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_3.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_4.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_5.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_6.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_7.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_8.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Assignment3_9.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignmnet9_8.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_2.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_1.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_3.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_4.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_5.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_6.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_7.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_8.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_9.java" />
+        <option value="$PROJECT_DIR$/src/String_Buffer/Assignment9_10.java" />
+        <option value="$PROJECT_DIR$/src/MiniProject/Project1.java" />
+        <option value="$PROJECT_DIR$/src/MiniProject/Project2.java" />
+        <option value="$PROJECT_DIR$/src/MiniProject/VideoLauncher.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/Assignment10_1.java" />
+        <option value="$PROJECT_DIR$/src/Interface/music/playable.java" />
+        <option value="$PROJECT_DIR$/src/Interface/music/string/Veena.java" />
+        <option value="$PROJECT_DIR$/src/Interface/music/Playable.java" />
+        <option value="$PROJECT_DIR$/src/Interface/music/wind/Saxophone.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/TestCompartment.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList1.java" />
+        <option value="$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_List/171500066_Collection_List/Employee.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList3.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList4.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList5.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList6.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList2.java" />
+        <option value="$PROJECT_DIR$/src/List/AssignmentList7.java" />
+        <option value="$PROJECT_DIR$/src/Set/AssignmentSet1.java" />
+        <option value="$PROJECT_DIR$/src/Set/AssignmetSet2.java" />
+        <option value="$PROJECT_DIR$/src/Set/AssignmentSet3.java" />
+        <option value="$PROJECT_DIR$/src/Set/AssignmentSet4.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap1.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap2.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap3.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap4.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap5.java" />
+        <option value="$PROJECT_DIR$/src/Map/AssignmentMap6.java" />
+        <option value="$PROJECT_DIR$/src/Thread_Creation/AssignmentTC1.java" />
+        <option value="$PROJECT_DIR$/src/Thread_Creation/AssignmentTC2.java" />
+        <option value="$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread control and priorities/Assignment1.java" />
+        <option value="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP1.java" />
+        <option value="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP2.java" />
+        <option value="$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP3.java" />
+        <option value="$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Tortoise.java" />
+        <option value="$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Hare.java" />
+        <option value="$PROJECT_DIR$/src/Hare_and_Tortoise/Race.java" />
+        <option value="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1A.java" />
+        <option value="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1ABjava" />
+        <option value="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1AB.java" />
+        <option value="$PROJECT_DIR$/src/Hare_and_Tortoise/Race1ABC.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="619" />
-    <option name="width" value="682" />
-    <option name="height" value="714" />
+    <option name="x" value="479" />
+    <option name="width" value="891" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,7 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,13 +221,27 @@
               <item name="WiproTalentnext" type="b2602c69:ProjectViewProjectNode" />
               <item name="WiproTalentnext" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Hare_and_Tortoise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WiproTalentnext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WiproTalentnext" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hare_and_Tortoise" type="462c0819:PsiDirectoryNode" />
+              <item name="Race1AB.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="WiproTalentnext" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WiproTalentnext" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Hare_and_Tortoise" type="462c0819:PsiDirectoryNode" />
+              <item name="Race1ABC.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,6 +249,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Flow_Control_Statements" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Encapsulation_Abstraction" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,14 +267,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Assignment3_7">
-    <configuration name="Assignment3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Assignment3_10" />
+  <component name="RunManager" selected="Application.Race1ABC">
+    <configuration name="AssignmentTCP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread_Control_and_Priorities.AssignmentTCP3" />
       <module name="WiproTalentnext" />
-      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6 7 8 9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Thread_Control_and_Priorities.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment3_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Assignment3_11" />
+    <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hare_and_Tortoise.Race" />
       <module name="WiproTalentnext" />
-      <option name="PROGRAM_PARAMETERS" value="1 4 1 4 1 1 " />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Hare_and_Tortoise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,13 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment3_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Assignment3_7" />
+    <configuration name="Race1AB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hare_and_Tortoise.Race1AB" />
       <module name="WiproTalentnext" />
-      <option name="PROGRAM_PARAMETERS" value="1 2 2 4 5 2 3 5 6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Hare_and_Tortoise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,13 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Assignment3_8" />
+    <configuration name="Race1ABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hare_and_Tortoise.Race1ABC" />
       <module name="WiproTalentnext" />
-      <option name="PROGRAM_PARAMETERS" value="2 6 2 7 2 6 7 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Hare_and_Tortoise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,13 +320,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Assignment3_9" />
-      <module name="WiproTalentnext" />
-      <option name="PROGRAM_PARAMETERS" value="10 9 5 0 5 03 10 10 5 10" />
+    <configuration name="RaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.w3epic.service.RaceMain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="com.w3epic.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Assignment3_11" />
-      <item itemvalue="Application.Assignment3_10" />
-      <item itemvalue="Application.Assignment3_9" />
-      <item itemvalue="Application.Assignment3_8" />
-      <item itemvalue="Application.Assignment3_7" />
+      <item itemvalue="Application.AssignmentTCP3" />
+      <item itemvalue="Application.RaceMain" />
+      <item itemvalue="Application.Race" />
+      <item itemvalue="Application.Race1AB" />
+      <item itemvalue="Application.Race1ABC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assignment3_7" />
-        <item itemvalue="Application.Assignment3_8" />
-        <item itemvalue="Application.Assignment3_9" />
-        <item itemvalue="Application.Assignment3_10" />
-        <item itemvalue="Application.Assignment3_11" />
+        <item itemvalue="Application.Race1ABC" />
+        <item itemvalue="Application.Race1AB" />
+        <item itemvalue="Application.Race" />
+        <item itemvalue="Application.RaceMain" />
+        <item itemvalue="Application.AssignmentTCP3" />
       </list>
     </recent_temporary>
   </component>
@@ -496,14 +598,56 @@
       <option name="project" value="LOCAL" />
       <updated>1592728049984</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="assignment3_10 complete">
+      <created>1592728130734</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728130734</updated>
+    </task>
+    <task id="LOCAL-00036" summary="assignment3_11 complete">
+      <created>1592728172788</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728172788</updated>
+    </task>
+    <task id="LOCAL-00037" summary="assignment3_12 complete">
+      <created>1592728212691</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728212691</updated>
+    </task>
+    <task id="LOCAL-00038" summary="assignment3_13 complete">
+      <created>1592728242433</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728242433</updated>
+    </task>
+    <task id="LOCAL-00039" summary="assignment3_14 complete">
+      <created>1592728298015</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728298015</updated>
+    </task>
+    <task id="LOCAL-00040" summary="assignment3_12 question update">
+      <created>1592728351721</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592728351721</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -512,8 +656,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3502455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -521,20 +665,20 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Flutter Inspector" order="6" />
-      <window_info anchor="right" id="Flutter Outline" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" weight="0.32980332" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -543,8 +687,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3502455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -557,21 +701,15 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Flutter Inspector" order="6" />
-      <window_info anchor="right" id="Flutter Outline" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="control flow assignment2" />
-    <MESSAGE value="control flow assignment2_3" />
-    <MESSAGE value="file renamed" />
-    <MESSAGE value="assignment2_2 complete" />
-    <MESSAGE value="assignment2_5 complete" />
-    <MESSAGE value="assignment2_6 complete" />
     <MESSAGE value="assignment2_7 complete" />
     <MESSAGE value="assignment2_8 complete" />
     <MESSAGE value="assignment2_9 complete" />
@@ -591,259 +729,294 @@
     <MESSAGE value="assignment3_7 complete" />
     <MESSAGE value="assignment3_8 complete" />
     <MESSAGE value="assignment3_9 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment3_9 complete" />
+    <MESSAGE value="assignment3_10 complete" />
+    <MESSAGE value="assignment3_11 complete" />
+    <MESSAGE value="assignment3_12 complete" />
+    <MESSAGE value="assignment3_13 complete" />
+    <MESSAGE value="assignment3_14 complete" />
+    <MESSAGE value="assignment3_12 question update" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment3_12 question update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_2.java">
+    <entry file="file://$PROJECT_DIR$/src/List/AssignmentList5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="425">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_3.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_List/171500066_Collection_List/Q6.java" />
+    <entry file="file://$PROJECT_DIR$/src/List/AssignmentList6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="105" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Language_Basic/Assignment1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="408">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Language_Basic/Assignment1_3.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_List/171500375_Collection_List/list/Assignment7.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_List/171500066_Collection_List/Q7.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500066_Collection_Set/Q1.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/171500375_Collection_Set/Assignment1/Country.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/171500375_Collection_Set/Assignment1/Assignment1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Set/AssignmentSet1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="40" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_1A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flow_Control_Statements/Assignment2_1B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Language_Basic/Assignment1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="325">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
           <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_12.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/171500375_Collection_Set/Assignment2.java" />
+    <entry file="file://$PROJECT_DIR$/src/List/AssignmentList2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="444">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="24" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#4166#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_13.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/Assignment2.java" />
+    <entry file="file://$PROJECT_DIR$/src/List/AssignmentList7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        <state relative-caret-position="138">
+          <caret line="46" column="46" selection-start-line="45" selection-start-column="8" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_14.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500066_Collection_Set/Employee.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500066_Collection_Set/Q2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Set/AssignmetSet2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="393">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_1.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/Assignment3.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500066_Collection_Set/Q3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Set/AssignmentSet3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="410">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_2.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500375_Collection_Set/Assignment4.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Set/171500066_Collection_Set/Q4.java" />
+    <entry file="file://$PROJECT_DIR$/src/Set/AssignmentSet4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="274">
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_3.java">
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="111" selection-start-line="8" selection-start-column="111" selection-end-line="8" selection-end-column="111" />
+        <state relative-caret-position="39">
+          <caret line="89" column="69" selection-start-line="89" selection-start-column="69" selection-end-line="89" selection-end-column="69" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_4.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q1.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
+        <state relative-caret-position="359">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_5.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_6.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q4.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q5.java" />
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="223">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_7.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Map/Q6.java" />
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/171500066_Collection_Mini_Project__String_Operations/StringOperations.java" />
+    <entry file="file://$PROJECT_DIR$/src/Map/AssignmentMap6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="325">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_8.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread_Creation/AssignmentTC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_9.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread creation/Assignment1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="10" selection-start-line="10" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread creation/Assignment2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#827#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_11.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread_Creation/AssignmentTC2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Assignment3_10.java">
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread control and priorities/Assignment1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread control and priorities/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_thread control and priorities/Assignment3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread_Control_and_Priorities/AssignmentTCP3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Tortoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="2" selection-start-column="7" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/bean/Hare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="2" selection-start-column="8" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Wipro TalentNext/Wipro TalentNext/171500140_multithreading_mini project_Hare and Tortoise Race/service/RaceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="32" column="13" selection-start-line="5" selection-start-column="21" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hare_and_Tortoise/Hare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hare_and_Tortoise/Race1AB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hare_and_Tortoise/Race1ABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

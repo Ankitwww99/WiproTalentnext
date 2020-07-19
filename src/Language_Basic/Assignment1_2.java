@@ -1,4 +1,3 @@
-package Language_Basic;
 /*
 Write a Program to accept a String as a command line argument and print a Welcome message as given below.
 
